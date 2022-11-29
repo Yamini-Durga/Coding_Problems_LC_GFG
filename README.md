@@ -8,3 +8,4 @@
   6. [Move zeros](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/MoveZeros.cpp)
   7. [Set Matrix Zeroes](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/SetMatrixZeroes.cpp)
   8. [Pascal's Triangle](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/PascalsTriangle.cpp)
+  9. [Permutations](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/Permutations.cpp)
