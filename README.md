@@ -10,3 +10,4 @@
   8. [Pascal's Triangle](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/PascalsTriangle.cpp)
   9. [Permutations](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/Permutations.cpp)
   10. [Next Permutation](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/Nextpermutation.cpp)
+  11. [Maximum Subarray](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/MaximumSubarray.cpp)
