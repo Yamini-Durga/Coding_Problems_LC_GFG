@@ -11,3 +11,4 @@
   9. [Permutations](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/Permutations.cpp)
   10. [Next Permutation](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/Nextpermutation.cpp)
   11. [Maximum Subarray](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/MaximumSubarray.cpp)
+  12. [Sort 0's 1's 2's](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/Sort012.cpp)
