@@ -18,3 +18,5 @@
 ## String
   1. [Reverse words in a string](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/String/ReverseWordsInString.cpp)
   2. [Longest Pallindrome Substring](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/String/LongestPallindromeSubstring.cpp)
+## Linked List
+  1. [Reverse Linked List](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Linked%20List/ReverseLinkedList.cpp)
