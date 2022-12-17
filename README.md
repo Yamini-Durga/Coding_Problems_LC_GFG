@@ -15,6 +15,7 @@
   13. [Best time to buy and sell stock](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/BuyAndSellStock.cpp)
   14. [Rotate Image](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/RotateImage.cpp)
   15. [Merge Intervals](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/MergeIntervals.cpp)
+  16. [Merge sorted array](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/MergeSortedArray.cpp)
 ## String
   1. [Reverse words in a string](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/String/ReverseWordsInString.cpp)
   2. [Longest Pallindrome Substring](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/String/LongestPallindromeSubstring.cpp)
