@@ -25,3 +25,4 @@
 ## Linked List
   1. [Reverse Linked List](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Linked%20List/ReverseLinkedList.cpp)
   2. [Middle of the linked list](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Linked%20List/MiddleOfTheLinkedlist.cpp)
+  3. [Merge two sorted lists](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Linked%20List/MergeTwoSortedLists.cpp)
