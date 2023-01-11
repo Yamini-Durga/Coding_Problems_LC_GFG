@@ -19,6 +19,7 @@
   17. [Dulpcate number](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/DulpicateNumber.cpp)
   18. [Repeat and Missing number](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/RepeatAndMissingNumber.cpp)
   19. [Count inversions in array](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/CountInversionInArray.cpp)
+  20. [Search in a 2D matrix](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/Search2dMatric.cpp)
 ## String
   1. [Reverse words in a string](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/String/ReverseWordsInString.cpp)
   2. [Longest Pallindrome Substring](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/String/LongestPallindromeSubstring.cpp)
