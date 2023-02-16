@@ -35,3 +35,4 @@
   3. [Merge two sorted lists](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Linked%20List/MergeTwoSortedLists.cpp)
   4. [Remove nth node from the end of the list](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Linked%20List/RemoveNNodeFromEnd.cpp)
   5. [Add Two Numbers](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Linked%20List/AddTwoNumbers.cpp)
+  6. [Delete Node in SLL](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Linked%20List/DeleteNodeInSLL.cpp)
