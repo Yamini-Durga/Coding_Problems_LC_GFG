@@ -21,7 +21,8 @@
   19. [Count inversions in array](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/CountInversionInArray.cpp)
   20. [Search in a 2D matrix](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/Search2dMatric.cpp)
   21. [Pow(x,n)](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/powXN.cpp)
-  22. [Majority element](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/MajorityElement.cpp)
+  22. [Majority element - N/2](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/MajorityElement.cpp)
+  23. [Majority element - N/3](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Array/MajorityElementN3.cpp)
 ## String
   1. [Reverse words in a string](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/String/ReverseWordsInString.cpp)
   2. [Longest Pallindrome Substring](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/String/LongestPallindromeSubstring.cpp)
