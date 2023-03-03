@@ -30,6 +30,7 @@
   4. [String to integer](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/String/StringToInteger.cpp)
   5. [Longest Common Prefix](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/String/LongestCommonPrefix.cpp)
   6. [Rabin Karp](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/String/RabinKarp.cpp)
+  7. [Find the index of first occurance in a string](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/String/FirstOccuranceInStr.cpp)
 ## Linked List
   1. [Reverse Linked List](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Linked%20List/ReverseLinkedList.cpp)
   2. [Middle of the linked list](https://github.com/Yamini-Durga/Coding_Problems_LC_GFG/blob/main/Linked%20List/MiddleOfTheLinkedlist.cpp)
